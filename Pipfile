@@ -11,6 +11,7 @@ numpy = "==1.18.1"
 pandas = "==0.25.3"
 scikit-learn = "==0.22.1"
 matplotlib = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.6"
